@@ -1,4 +1,4 @@
 Random Problems
 ---------------
 
-I have recently fallen in love with the elegance of functional programming. These are some sample problems worked out in OCaml.
+I have recently fallen in love with the elegance of functional programming. These are some sample problems worked out in OCaml, for my own practice.
